@@ -1,4 +1,4 @@
-# Moveis Personalizados
+# Projeto n° 1 - Trilha Explore
 
 ![preview](/github/preview.png)
 
