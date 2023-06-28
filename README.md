@@ -1,12 +1,12 @@
 # Moveis Personalizados
 
-![preview](/github/preview.png)
+![preview]([/github/preview.png](https://github.com/GabrieLobatoCabral/Projeto-1/assets/113934416/38bc220e-4d11-485c-8134-eee0593b1e08))
 
 > Rocketseat One
 
 Projeto construído no curso explore da Rocketseat🚀.
 
-[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/listagem-marvel/)
+[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/Projeto-1/)
 
 ## 🛠️ Tecnologias
 
